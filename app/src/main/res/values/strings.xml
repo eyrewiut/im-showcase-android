@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IM Showcase</string>
+
+    <!-- Page Appbar Titles -->
+    <string name="title_page_scan">QR Code Scanner</string>
+    <string name="title_page_projects">Projects</string>
+    <string name="title_page_vote">Your Vote</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="scan_qr">Scan QR</string>
+
+    <string name="content_description_scan_qr">Scan QR Code</string>
+
+    <!--  Bottom Nav labels  -->
+    <string name="label_menuitems_projects">Projects</string>
+    <string name="label_menuitems_vote">Manage Vote</string>
+    <string name="label_menuitems_scan">Scan QR Code</string>
+
+    <!--  Home  -->
+    <string name="home_intro_para">Welcome to the official IM Showcase app, through this app you can browse projects &amp; vote for the one you think most deserves the audience favourite award.</string>
+
+    <!--  Scan  -->
+    <string name="para_scan_help">Scan the QR code placed next to each person at the in-person event. If you cannot attend, don’t worry! You can still browse projects via the project screen.</string>
+
+    <string name="vote_button_nominate">Nominate for audience favourite</string>
+    <string name="paragraph_not_voted">You haven’t voted for any projects yet... To vote for the audience favourite award, find a project you like and click the vote button. If you are attending the showcase in-person you can also scan the QR code next to the project to be taken to it’s page in the app.</string>
+    <string name="cta_browse_projects">Browse Projects</string>
+    <string name="cta_scan_qr_code">Scan QR Code</string>
+    <string name="vote_button_retract">Retract vote</string>
+    <string name="pref_file_key">im_showcase_prefs</string>
+    <string name="label_menuitems_logout">Log Out</string>
+    <string name="loading">Loading...</string>
+</resources>

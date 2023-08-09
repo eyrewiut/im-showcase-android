@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/settings_menu_vote" android:title="@string/label_menuitems_vote" />
+    <item android:id="@+id/settings_menu_logout" android:title="@string/label_menuitems_logout" />
+</menu>

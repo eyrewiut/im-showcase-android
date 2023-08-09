@@ -1,0 +1,26 @@
+package uk.co.imshowcase.imshowcase.models
+
+data class Story<ContentType>(
+     var name: String,
+     var createdAt: String,
+     var publishedAt: String?,
+     var id: Int,
+     var uuid: String,
+     var content: ContentType,
+     var slug: String,
+     val fullSlug: String,
+     var sortByDate: String?,
+     var position: Int?,
+     var tagList: List<String>?,
+     var isStartpage: Boolean?,
+     var parentId: Int?,
+//     var metaData: Any?,
+     var groupId: String?,
+     var firstPublishedAt: String?,
+     var releaseId: Any?,
+     var lang: String?,
+     var path: String?,
+//     var alternates: List<Any>?,
+     var defaultFullSlug: String?,
+//     var translatedSlugs: Map<String, Any>?,
+)
